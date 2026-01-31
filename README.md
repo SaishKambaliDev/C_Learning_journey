@@ -2,6 +2,6 @@
 <br>
 <b> Please find this code useful exploring different c concepts. </b>
 <br>
-<font color="Red"> Content <font>
+<p style=color:"Red"> Content <font>
 <br>
 <i>Author - Saish Kambali</i>
