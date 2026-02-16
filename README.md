@@ -1,0 +1,7 @@
+# This repository features codes related to concepts i learned throughout my C learning journey.
+<br>
+<b> Please find this code useful exploring different c concepts. </b>
+<br>
+<b><p style="color:Red;"> Content </p></b>
+<br>
+<i>Author - Saish Kambali</i>
