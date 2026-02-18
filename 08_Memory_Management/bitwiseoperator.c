@@ -19,4 +19,4 @@ if(permissions & EXEC)
 {
     printf("Execution allowed\n");
 }
-}   q
+} 
