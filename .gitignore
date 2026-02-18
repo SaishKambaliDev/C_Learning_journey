@@ -1,0 +1,28 @@
+# VS Code
+.vscode/
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+
+# Debug files
+*.dSYM/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# CMake / build folders (if used later)
+build/
+cmake-build-*/
+
+# Backup files
+*~
