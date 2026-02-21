@@ -26,9 +26,7 @@ gcc filename.c
 
 and then execute:
 
-./a.out  
-
-(On Windows, run a.exe)
+./a.out  (On Windows, run a.exe)
 
 Through this repository, my goal is to strengthen my C fundamentals, improve problem-solving skills, gain confidence in pointers and memory concepts, and become internship and interview ready. I plan to continue adding more programs, mini projects, and improving code documentation as I progress.
 
