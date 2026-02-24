@@ -28,19 +28,19 @@ The preprocessor is a program stage that runs before the compiler.
 - \" - Inserts a double quote character
 
 # Comments
-single line - //
+single line - //  
 Multi line - /* */
 
 # Variables
 Variables are containers for stroing data values.
 Variable is a name given to a memory location.
 
-# More about printf()
+# More about printf()  
 printf() Function signature
 
-   int printf(const char *format, ...);
-First argument -> format string (char *)
-Remaining arguments -> values to print
+   int printf(const char *format, ...);  
+   First argument -> format string (char *)  
+   Remaining arguments -> values to print
 
 - printf does not use variable types
   - does not look at C variables types
@@ -93,7 +93,7 @@ Data types in C do ALL of this:
 - Prevent type errors
 
 # Characters
-char is just a number type like int.
+char is just a number type like int.  
 Char can accept characters, because characters in C are just numbers.
 
 char c = 'A';
