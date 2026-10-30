@@ -30,7 +30,7 @@ and then execute:
 
 Through this repository, my goal is to strengthen my C fundamentals, improve problem-solving skills, gain confidence in pointers and memory concepts, and become internship and interview ready. I plan to continue adding more programs, mini projects, and improving code documentation as I progress.
 
-Author: Saish  
+Author: Saish S. Kambali
 C Programming Learner | Student Developer  
 
 Thank you for visiting my repository.
